@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    padding: 10px;
+    font-family:Tahoma;
+}
+#sessão1 {
+    border-bottom: 1px solid #d5d5d5;
+    padding-top: 60px;
+    padding-bottom: 60px
+}
+#sessao2 {
+    border-bottom: 1px solid #d5d5d5;
+    padding-top: 10px;
+    padding-bottom: 60px
+}
+#sessao3 {
+    border-bottom: 1px solid #d5d5d5;
+    padding-bottom: 60px
+}
+
+img {
+    width: 250px;
+}
+p {
+    line-height:30px;
+}
+
+span {
+    font-weight: bold;
+}
+
+a {
+    font-size:18px;
+    background-color: #31ac41;
+    color:white;
+    text-decoration: none;
+    padding: 8px 35px 8px 35px;
+    border-width: 100px;
+    border-radius: 20px;
+
+}
+
+h3 {
+    font-size:23px;
+    padding-top: 60px;
+}
